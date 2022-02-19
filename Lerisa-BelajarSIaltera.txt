@@ -1,0 +1,4 @@
+Lerisa belajar SI Altera
+- mempelajari dasar-dasar GIT 
+- mempelajari dasar-dasar GITHUB
+- mencoba dari yang sudah dipelajari
