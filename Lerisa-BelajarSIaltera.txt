@@ -5,3 +5,4 @@ Lerisa belajar SI Altera
 - mencoba belajar branch
 - mencoba belajar merge
 - mengerjakan tugas praktikum
+- mengumpulkan tugas praktikum
